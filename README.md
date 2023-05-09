@@ -1,2 +1,4 @@
-# Metadata
-The Metadata ontology module of the [Polifonia ontology network](https://github.com/polifonia-project/ontology-network) aims at supporting the representation of meta-data about musical resources.
+# Co*Meta
+An extension of [Music Meta](https://github.com/polifonia-project/musicmeta-ontology) to describe the metadata of music **co**llections, **co**rpora, **co**ntainers, or simply music datasets!
+
+

@@ -4,6 +4,8 @@ An extension of [Music Meta](https://github.com/polifonia-project/musicmeta-onto
 [![DOI](https://zenodo.org/badge/372536364.svg)](https://zenodo.org/badge/latestdoi/372536364)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+> 🔗 Ontology URI: [https://w3id.org/polifonia/ontology/cometa/](https://w3id.org/polifonia/ontology/cometa/)
+
 Here, metadata is described at the collection-level (data curator, annotations provided, availability of audio music, etc.), and at the content-level, (e.g., the title, artist, release of each piece in a dataset). The design of CoMeta is informed by a survey of Music Information Retrieval datasets, which allowed for the categorisation of common fields.
 
 

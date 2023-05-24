@@ -24,19 +24,19 @@ contributors:
 - Nicolas Lazzari <https://github.com/n28div>
 related-components:
 - informed-by:
-  - https://github.com/polifonia-project/polifoniacq-dataset
+  - polifoniacq-dataset
 - reuses:  # any reused/imported ontology
-  - https://github.com/polifonia-project/core/
-  - https://github.com/polifonia-project/musicmeta-ontology
+  - https://w3id.org/polifonia/ontology/core/
+  - https://w3id.org/polifonia/ontology/music-meta/
 - extends:  # any extended ontology
-- https://github.com/polifonia-project/musicmeta-ontology
+  - https://w3id.org/polifonia/ontology/music-meta/
 - story:  # any related story this ontology addresses
-  - https://github.com/polifonia-project/stories/blob/main/Linka_Computer_Scientist/Linka%231_MusicKnowledge.md
+  - Linka#1_MusicKnowledge
 - persona:  # any persona this ontology addresses
-  - https://github.com/polifonia-project/stories/tree/main/Linka_Computer_Scientist
-- documentation:  # link any resource providing documentation for this ontology
-  - https://github.com/polifonia-project/cometa-ontology
+  - Linka
 ---
+<!-- - documentation:  # link any resource providing documentation for this ontology
+  - https://github.com/polifonia-project/cometa-ontology -->
 
 # CoMeta Ontology
 

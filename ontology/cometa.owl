@@ -23,12 +23,18 @@
         <owl:imports rdf:resource="https://w3id.org/polifonia/ontology/music-meta/1.0/"/>
         <dc:creator xml:lang="en">Andrea Poltronieri</dc:creator>
         <dc:creator xml:lang="en">Jacopo de Berardinis</dc:creator>
-        <dc:creator>Nicolas Lazzari</dc:creator>
+        <dc:creator xml:lang="en">Nicolas Lazzari</dc:creator>
         <dc:license rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/"/>
         <terms:license rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/"/>
         <rdfs:comment xml:lang="en">An extension of Music Meta to describe the metadata of music collections, corpora, containers, or simply music datasets.</rdfs:comment>
         <rdfs:label xml:lang="en">CoMeta Ontology</rdfs:label>
+        <dc:title xml:lang="en">CoMeta Ontology</dc:title>
+        <dc:description xml:lang="en">An extension of Music Meta to describe the metadata of music collections, corpora, containers, or simply music datasets.</dc:description>
         <owl:versionInfo xml:lang="en">1.0</owl:versionInfo>
+        <terms:modified>"2023-05-18"^^xsd:date</terms:modified>
+        <terms:issued>"2023-04-12"^^xsd:date</terms:issued>
+        <vann:preferredNamespacePrefix>com:</vann:preferredNamespacePrefix>
+        <vann:preferredNamespaceUri>https://w3id.org/polifonia/ontology/cometa/</vann:preferredNamespaceUri>
     </owl:Ontology>
     
 

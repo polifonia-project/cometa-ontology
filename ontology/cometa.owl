@@ -17,6 +17,8 @@
      xmlns:prov="http://www.w3.org/ns/prov#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:opla1="http://ontologydesignpatterns.org/opla/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:vann="http://purl.org/vocab/vann/"
      xmlns:terms="http://purl.org/dc/terms/">
     <owl:Ontology rdf:about="https://w3id.org/polifonia/ontology/cometa/">
         <owl:versionIRI rdf:resource="https://w3id.org/polifonia/ontology/cometa/1.0/"/>
@@ -26,6 +28,7 @@
         <dc:creator xml:lang="en">Nicolas Lazzari</dc:creator>
         <dc:license rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/"/>
         <terms:license rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/"/>
+        <cc:license rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/"/>
         <rdfs:comment xml:lang="en">An extension of Music Meta to describe the metadata of music collections, corpora, containers, or simply music datasets.</rdfs:comment>
         <rdfs:label xml:lang="en">CoMeta Ontology</rdfs:label>
         <dc:title xml:lang="en">CoMeta Ontology</dc:title>
